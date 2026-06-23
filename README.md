@@ -1,3 +1,4 @@
+Currently in pirvate beta: [please view here](https://github.com/aghastmuffin/taesonco-calcount)
 # calcount
 An always *FREE* calorie counting app! 
 # First, The why. 
